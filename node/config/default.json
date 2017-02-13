@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "f2364133dd19d2e65ceb8e7c022493e1",
+    "pageAccessToken": "EAAaSRhwxjrcBANqKrJx8krofsZARPAIZAuNXuLmARZAQIr8ZACSJKMd956fotZBulWkcBpZBVj07apYCLr49fBTwkVRlwmTOObEGfxODd4jmBM5jC0xntZA7xRIYmcCmMuxY8OHBdxvVu5fmcM8ELyCEOUZAcwEz35cmxBSEr8yaJQZDZD",
+    "validationToken": "relie_on_my_bot",
+    "serverURL": "https://fb-messengerbot-master.herokuapp.com/"
 }
